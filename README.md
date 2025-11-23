@@ -35,17 +35,28 @@ This is a **responsive personal portfolio website** created using **HTML, CSS, a
 ## 📁 Folder Structure
 
 personal-portfolio/
-├── index.html
-├── about.html
-├── projects.html
-├── contact.html
-├── style.css
-├── script.js
-├── resume.pdf
-├── README.md
-└── assets/
-└── images/
-└── profile.jpg
+
+  ├── index.html
+  
+  ├── about.html
+  
+  ├── projects.html
+  
+  ├── contact.html
+  
+  ├── style.css
+  
+  ├── script.js
+  
+  ├── resume.pdf
+  
+  ├── README.md
+  
+  └── assets/
+  
+      └── images/
+          
+            └── profile.jpg
 
 ---
 
